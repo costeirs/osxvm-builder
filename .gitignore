@@ -6,3 +6,8 @@ AutoPartition-*
 packer/output-*
 *.pvm
 *.pyc
+
+*.app
+
+*/tmp/
+*/*/tmp/
